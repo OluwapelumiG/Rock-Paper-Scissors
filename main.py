@@ -1,5 +1,8 @@
 import random
 print("Welcome to Rock-Paper-Scissors game ")
+# print("***___***___***___***___***___***___***___***___***")
+# print("___***___***___***___***___***___***___***___***___")
+# print("***___***___***___***___***___***___***___***___***")
 while 1:
     print("\n***INSTRUCTION***\nEnter R for Rock \nEnter P for Paper \nEnter S for Scissors\nEnter H for help\nEnter X to quit\n")
     cpu = random.choice(["R", "P", "S"])
